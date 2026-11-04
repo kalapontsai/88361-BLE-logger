@@ -19,24 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party notices
-===================
-
-This repository bundles third-party redistributables that remain under their
-own licenses:
-
-- src/apache/chart.umd.min.js              - Chart.js (MIT)
-- src/apache/chartjs-adapter-date-fns.bundle.js
-                                          - @chartjs/adapter-date-fns (MIT)
-- src/official/Nice+Logger_1.0.025_APKPure.xapk
-                                          - Nice Logger (proprietary, AZ Instrument);
-                                            included for interoperability
-                                            reference only
-- manual/*.pdf, manual/*.pptx              - AZ Instrument product documentation
-                                            (proprietary)
-
-Brand names and product documentation remain the property of their respective
-owners.

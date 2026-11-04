@@ -45,6 +45,7 @@ AZ Instrument 88361（Nice Logger）BLE 溫濕度記錄器的逆向分析、協�
 │       └── Nice+Logger_1.0.025_APKPure.xapk
 │
 ├── LICENSE
+├── THIRD_PARTY_NOTICES.md
 └── .gitignore
 ```
 
@@ -212,7 +213,7 @@ config.php 解析順序：
 
 本專案程式碼採 [MIT License](LICENSE)。
 
-第三方程式碼與文件保留其各自授權，詳見 LICENSE 檔案末尾的 Third-party notices：
+第三方程式碼與文件保留其各自授權，詳見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)：
 Chart.js 與 date-fns adapter 為 MIT；原廠 Nice Logger App 與 AZ Instrument 手冊為專有權利，
 僅作為互通性參考收錄。
 
