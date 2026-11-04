@@ -1,0 +1,23 @@
+# ---- Mosquitto runtime state (broker DB + logs) ----
+src/mqtt/data/mosquitto/data/
+src/mqtt/data/mosquitto/log/
+
+# ---- Runtime config with credentials (never tracked) ----
+src/apache/api/config.php
+src/apache/config.php
+src/mqtt/config.php
+config.php
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
